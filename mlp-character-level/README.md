@@ -22,7 +22,9 @@ Loss plot from 0.001 to 1 in 1000 steps
 
 ## Outputs
 The output from the MLP network is quite better than the bigram model.
+
 ![output on nepali names txt](images/output.png)
+
 ## Usage
 Prepare your input data as a text file (e.g., input.txt).
 Run the script with the path to your input file:
