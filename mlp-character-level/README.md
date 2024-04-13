@@ -13,9 +13,11 @@ After training, the model can be used to generate new text by sampling from its 
 ## Plots
 
 Loss plot from 0.001 to 1 in 1000 steps
+
 ![Loss plot](images/loss_plot.png)
 
 2D Embedding matrix plot
+
 ![matrix](images/embedding_viz.png)
 
 ## Outputs
