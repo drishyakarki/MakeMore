@@ -7,7 +7,7 @@
 ## Introduction
 This repository contains code implementations and resources related to the "Make More" series by Andrej Karpathy. Check out the detailed implementation inside these repos.
 1. [Character level bigram Language Model](bigram)
-2. Multi-Layer Perceptron character-level language model
+2. [Multi-Layer Perceptron character-level language model](mlp-character-level)
 3. Adding Activations, Gradients to the MLP
 4. Backprop ninja 
 5. Building Wavenet
