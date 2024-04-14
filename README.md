@@ -10,4 +10,3 @@ This repository contains code implementations and resources related to the "Make
 2. [Multi-Layer Perceptron character-level language model](mlp-character-level)
 3. [Adding Activations, Gradients to the MLP](batch_norm)
 4. [Backprop ninja](backprop_ninja)
-5. Building Wavenet
